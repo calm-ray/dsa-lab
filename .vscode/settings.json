@@ -1,3 +1,11 @@
 {
-    "java.project.outputPath": "build/java"
+    "java.project.outputPath": "build/java",
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "format": "cpp",
+        "iomanip": "cpp",
+        "cmath": "cpp"
+    }
 }
