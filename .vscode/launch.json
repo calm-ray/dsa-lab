@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DataTypeGuessing",
+            "request": "launch",
+            "mainClass": "DataTypeGuessing",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "Katryoshka",
+            "request": "launch",
+            "mainClass": "Katryoshka",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "AddingBits",
+            "request": "launch",
+            "mainClass": "AddingBits",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "NextAlpahbet",
+            "request": "launch",
+            "mainClass": "NextAlpahbet",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "WinterSale",
+            "request": "launch",
+            "mainClass": "WinterSale",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
             "name": "TheLast2Digits",
             "request": "launch",
             "mainClass": "TheLast2Digits",
