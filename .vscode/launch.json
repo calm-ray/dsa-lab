@@ -6,6 +6,146 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreeNumbers",
+            "request": "launch",
+            "mainClass": "ThreeNumbers",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "EasyFibonacci",
+            "request": "launch",
+            "mainClass": "EasyFibonacci",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "ConvertToDecimal2",
+            "request": "launch",
+            "mainClass": "ConvertToDecimal2",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "Shape3",
+            "request": "launch",
+            "mainClass": "Shape3",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "PUM",
+            "request": "launch",
+            "mainClass": "PUM",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "SomeSums",
+            "request": "launch",
+            "mainClass": "SomeSums",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "Shape2",
+            "request": "launch",
+            "mainClass": "Shape2",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "SumOfConsecutiveOddNumbers",
+            "request": "launch",
+            "mainClass": "SumOfConsecutiveOddNumbers",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "SequenceOfNumbersAndSum",
+            "request": "launch",
+            "mainClass": "SequenceOfNumbersAndSum",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "Digits",
+            "request": "launch",
+            "mainClass": "Digits",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "Pyramid",
+            "request": "launch",
+            "mainClass": "Pyramid",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "NumHistogram",
+            "request": "launch",
+            "mainClass": "NumHistogram",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "LuckyNumbers",
+            "request": "launch",
+            "mainClass": "LuckyNumbers",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "Divisior",
+            "request": "launch",
+            "mainClass": "Divisior",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "PrimesFrom1ToN",
+            "request": "launch",
+            "mainClass": "PrimesFrom1ToN",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "OnePrime",
+            "request": "launch",
+            "mainClass": "OnePrime",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
             "name": "Max",
             "request": "launch",
             "mainClass": "Max",
