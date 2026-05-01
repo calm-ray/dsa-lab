@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConstructTheSum",
+            "request": "launch",
+            "mainClass": "ConstructTheSum",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "BreakNumber",
+            "request": "launch",
+            "mainClass": "BreakNumber",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "HadyRidesTheTrain",
+            "request": "launch",
+            "mainClass": "HadyRidesTheTrain",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "RangeSum",
+            "request": "launch",
+            "mainClass": "RangeSum",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "FindingMinimums",
+            "request": "launch",
+            "mainClass": "FindingMinimums",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "DrawingX",
+            "request": "launch",
+            "mainClass": "DrawingX",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "TimonAndPumbaa",
+            "request": "launch",
+            "mainClass": "TimonAndPumbaa",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
             "name": "ThreeNumbers",
             "request": "launch",
             "mainClass": "ThreeNumbers",
