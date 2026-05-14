@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeFactorisationOfANumber",
+            "request": "launch",
+            "mainClass": "PrimeFactorisationOfANumber",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "CountPrimesBetweenLR",
+            "request": "launch",
+            "mainClass": "CountPrimesBetweenLR",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "SieveOfEratosthenes",
+            "request": "launch",
+            "mainClass": "SieveOfEratosthenes",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "PowerExponentiation",
+            "request": "launch",
+            "mainClass": "PowerExponentiation",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "PrimeFactors",
+            "request": "launch",
+            "mainClass": "PrimeFactors",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "PrintAllDivisior",
+            "request": "launch",
+            "mainClass": "PrintAllDivisior",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "CountDigits",
+            "request": "launch",
+            "mainClass": "CountDigits",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
             "name": "SelfDividingNumber",
             "request": "launch",
             "mainClass": "SelfDividingNumber",
