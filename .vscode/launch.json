@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AnyBaseMultiplication",
+            "request": "launch",
+            "mainClass": "AnyBaseMultiplication",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "AnyBaseSubtraction",
+            "request": "launch",
+            "mainClass": "AnyBaseSubtraction",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "AnyBaseAddition",
+            "request": "launch",
+            "mainClass": "AnyBaseAddition",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "AnyBaseToDecimal",
+            "request": "launch",
+            "mainClass": "AnyBaseToDecimal",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToAnyBase",
+            "request": "launch",
+            "mainClass": "DecimalToAnyBase",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "DigitsFrequency",
+            "request": "launch",
+            "mainClass": "DigitsFrequency",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
             "name": "PrimeFactorisationOfANumber",
             "request": "launch",
             "mainClass": "PrimeFactorisationOfANumber",
