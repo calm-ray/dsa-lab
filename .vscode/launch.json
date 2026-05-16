@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DiffOfTwoArrays",
+            "request": "launch",
+            "mainClass": "DiffOfTwoArrays",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "SumOfTwoArrays",
+            "request": "launch",
+            "mainClass": "SumOfTwoArrays",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "BarChart",
+            "request": "launch",
+            "mainClass": "BarChart",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "FindElement",
+            "request": "launch",
+            "mainClass": "FindElement",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "SpanOfAnArray",
+            "request": "launch",
+            "mainClass": "SpanOfAnArray",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
             "name": "AnyBaseMultiplication",
             "request": "launch",
             "mainClass": "AnyBaseMultiplication",
