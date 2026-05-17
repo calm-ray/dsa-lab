@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FirstLastIndex",
+            "request": "launch",
+            "mainClass": "FirstLastIndex",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "CeilFloor",
+            "request": "launch",
+            "mainClass": "CeilFloor",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "PrintSubsets",
+            "request": "launch",
+            "mainClass": "PrintSubsets",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "PrintSubArrays",
+            "request": "launch",
+            "mainClass": "PrintSubArrays",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "InverseAnArray",
+            "request": "launch",
+            "mainClass": "InverseAnArray",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "RotateAnArray",
+            "request": "launch",
+            "mainClass": "RotateAnArray",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "ReverseAnArray",
+            "request": "launch",
+            "mainClass": "ReverseAnArray",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
             "name": "DiffOfTwoArrays",
             "request": "launch",
             "mainClass": "DiffOfTwoArrays",
