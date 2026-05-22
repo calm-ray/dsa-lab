@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SearchIn2DSortedArray",
+            "request": "launch",
+            "mainClass": "SearchIn2DSortedArray",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "SaddlePoint",
+            "request": "launch",
+            "mainClass": "SaddlePoint",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "DiagonalTraversal",
+            "request": "launch",
+            "mainClass": "DiagonalTraversal",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "ShellRotate",
+            "request": "launch",
+            "mainClass": "ShellRotate",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "RotateByNinety",
+            "request": "launch",
+            "mainClass": "RotateByNinety",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "ExitPointInAMatrix",
+            "request": "launch",
+            "mainClass": "ExitPointInAMatrix",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "SpiralDisplay",
+            "request": "launch",
+            "mainClass": "SpiralDisplay",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "WaveTraversal",
+            "request": "launch",
+            "mainClass": "WaveTraversal",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "MatrixMultiplication",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "PrintMatrix",
+            "request": "launch",
+            "mainClass": "PrintMatrix",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
             "name": "FirstLastIndex",
             "request": "launch",
             "mainClass": "FirstLastIndex",
