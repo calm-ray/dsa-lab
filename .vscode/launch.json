@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MajorityElementII169",
+            "request": "launch",
+            "mainClass": "MajorityElementII169",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfArrayExceptSelf238",
+            "request": "launch",
+            "mainClass": "ProductOfArrayExceptSelf238",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "PivotIndex",
+            "request": "launch",
+            "mainClass": "PivotIndex",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "SuffixSum",
+            "request": "launch",
+            "mainClass": "SuffixSum",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "PrefixSum",
+            "request": "launch",
+            "mainClass": "PrefixSum",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "NumOfIdenticalPairs",
+            "request": "launch",
+            "mainClass": "NumOfIdenticalPairs",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "MountainArray",
+            "request": "launch",
+            "mainClass": "MountainArray",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
+            "name": "MaxProductOf2Elements",
+            "request": "launch",
+            "mainClass": "MaxProductOf2Elements",
+            "projectName": "DSA_7abaf5b7"
+        },
+        {
+            "type": "java",
             "name": "SearchIn2DSortedArray",
             "request": "launch",
             "mainClass": "SearchIn2DSortedArray",
